@@ -1,4 +1,4 @@
-hugo
+锘縣ugo
 
 # cd hugo
 
@@ -6,6 +6,6 @@ time=$(date "+%Y-%m-%d %H:%M:%S")
 echo $time
 
 git add .
-git commit -m "自动执行构建脚本 ??$time"
+git commit -m "鑷姩鎵ц鏋勫缓鑴氭湰 ??$time"
 git push
 exit
